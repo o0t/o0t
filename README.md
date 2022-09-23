@@ -16,3 +16,7 @@ HTML , CSS , js , Bootstrap
 
  PHP , Laravel , MySQL  , API
 
+🛠 Els
+
+- linux - bash script
+
