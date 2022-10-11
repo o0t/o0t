@@ -1,6 +1,8 @@
 # Hi there , I'm Rayan! 👋
-
+<center>
 ![image](https://user-images.githubusercontent.com/94997828/195128663-e61a0575-e1ad-4682-85ad-27fd001f9635.png)
+
+</center>
 
 # Programming languages
 
