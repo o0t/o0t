@@ -4,6 +4,9 @@
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0t&&layout=compact"/>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <img  align="left"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img  align="left"  src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
