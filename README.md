@@ -1,6 +1,7 @@
 # Hi there , I'm Rayan! 👋
 
-<img  align="left"  src="https://user-images.githubusercontent.com/94997828/195128663-e61a0575-e1ad-4682-85ad-27fd001f9635.png"/>
+<img  align="left"  src="https://user-images.githubusercontent.com/94997828/195132053-9f3eafcb-2b0f-4a19-9e6d-f625e20c7d50.png"/>
+
 
 
 # Programming languages
