@@ -1,22 +1,13 @@
-### Hi there 👋
+# Hi there , I'm Rayan! 👋
 
-I'm Rayan and I'm a web developer
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=o0t&show_icons=true&theme=radical"/>
+<img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0t&&layout=compact"/>
 
-- ⚡ I always love to learn
-- 🌱 I’m currently learning Laravel
-- 👯 I’m looking to collaborate on BackEnd
 
-## 🛠 Skills
 
-#### Front-end 
+<img  align="left"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img  align="left"  src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
 
-HTML , CSS , js , Bootstrap 
 
-#### Back-End 
-
- PHP , Laravel , MySQL  , API
-
-🛠 Els
-
-- linux - bash script
-
+<img  align="left"  alt="mysql" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img align="left" alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white"/>
