@@ -1,8 +1,10 @@
 # Hi there , I'm Rayan! 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=o0t&show_icons=true&theme=radical"/>
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0t&&layout=compact"/>
 
+# Hello world
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=o0t&show_icons=true&theme=radical"/>
 
 # Coding
 
