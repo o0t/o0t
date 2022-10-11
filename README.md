@@ -7,6 +7,16 @@
 # Coding
 
 <!--START_SECTION:waka-->
+
+```text
+Blade Template   4 hrs 20 mins   █████████▓░░░░░░░░░░░░░░░   39.29 %
+PHP              2 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+Bash             1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+JSON             1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+JavaScript       51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+HTML             29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+```
+
 <!--END_SECTION:waka-->
 
 
