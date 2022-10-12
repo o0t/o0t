@@ -15,7 +15,19 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# Coding
+
+# 🛠 Skills
+
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+<img  align="left"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img  align="left"  src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+<img  align="left"  alt="mysql" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img align="left" alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white"/>
+
+
+
+# Codeing
 
 <!--START_SECTION:waka-->
 
@@ -29,11 +41,3 @@ YAML             24 mins         █▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-<img  align="left"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img  align="left"  src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
-
-
-<img  align="left"  alt="mysql" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img align="left" alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white"/>
