@@ -21,7 +21,10 @@
 
 <!-- ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) -->
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
-<img src="/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" width="48" style="max-width: 100%;">
+
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/AlpineJS-Dark.svg">
+
 <img  align="left"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <!-- <img  align="left"  src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/> -->
 <!-- <img  align="left"  alt="mysql" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
