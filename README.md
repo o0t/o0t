@@ -4,9 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=83&lines=Hi+there+%2C++I'm+Rayan+!++%F0%9F%91%8B)](https://git.io/typing-svg)
     
 </div> 
+<hr>
 
-<br>
-
+<div align="center"> 
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer++php+%2F+Laravel)](https://git.io/typing-svg)
+    
+</div>
 
 
 <br>
