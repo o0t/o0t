@@ -1,7 +1,7 @@
 
 <div align="center">
 
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=443&lines=Hi+there+%2C+I'm+Rayan!+%F0%9F%91%8B;Full+Stack+Developer+php+%2F+Laravel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=443&lines=Hi+there+%2C+I'm+Rayan!+%F0%9F%91%8B;Full+Stack+Developer+php+%2F+Laravel)](https://git.io/typing-svg)
 
 </div> 
 
