@@ -38,6 +38,7 @@
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Linux-Dark.svg">
 </p>
 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0t&langs_count=8)](https://github.com/o0t/github-readme-stats)
 
