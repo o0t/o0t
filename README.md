@@ -1,6 +1,11 @@
 
 <h1 align="center"> Hi there , I'm Rayan! 👋  </h1> 
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+php+%2F+Laravel)](https://git.io/typing-svg)
+
+<br>
 <img  align="left" width="400" src="https://user-images.githubusercontent.com/94997828/195132053-9f3eafcb-2b0f-4a19-9e6d-f625e20c7d50.png"/>
 
 
