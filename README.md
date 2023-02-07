@@ -3,8 +3,10 @@
 
 <br>
 
-<div align="center" >
+<div align="center">
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+php+%2F+Laravel)](https://git.io/typing-svg)
+
 </div>
 
 <br>
