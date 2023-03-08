@@ -1,6 +1,6 @@
 
 <div align="center">
-# > Hi there, I'm Rayan 👋 
+    <h1> > Hi there, I'm Rayan 👋 </h1>
 </div> 
 
 <div align="center"> 
