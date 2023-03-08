@@ -37,7 +37,7 @@
 </p>
 
 <br>
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0t&langs_count=8)](https://github.com/o0t/github-readme-stats)
 
 
@@ -46,6 +46,6 @@
  <source  srcset="https://github-readme-stats.vercel.app/api?username=o0t&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no preference)"/>
 <img src="https://github-readme-stats.vercel.app/api?username=o0t&show_icons=true" />
 </picture>
-    
+     -->
 
 
