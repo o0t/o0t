@@ -39,7 +39,7 @@
 <br>
 <br>
 <br>
-[![Mazen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=o0t&theme=github_dark&hide_border=true)](https://wakatime.com/@o0t)
+<!-- [![Mazen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=o0t&theme=github_dark&hide_border=true)](https://wakatime.com/@o0t) -->
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0t&langs_count=8)](https://github.com/o0t/github-readme-stats)
