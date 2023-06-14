@@ -40,7 +40,9 @@
 <br>
 <hr>
 
-[![wakatime](https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg)](https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0t&langs_count=8)](https://github.com/o0t/github-readme-stats)
 
