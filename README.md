@@ -39,8 +39,8 @@
 <br>
 <br>
 <hr>
-[![o0t's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=o0t&theme=github_dark&hide_border=true)](https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b)
 
+[![wakatime](https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg)](https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0t&langs_count=8)](https://github.com/o0t/github-readme-stats)
 
