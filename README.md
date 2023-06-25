@@ -53,8 +53,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=o0t&show_icons=true" />
 </picture>
      -->
-<p align="center">
+<div align="center">
     
 [![Done wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=o0t&theme=github_dark&hide_border=true)](https://wakatime.com/@o0t)
 
-</p>
+</div>
