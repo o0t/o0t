@@ -73,6 +73,6 @@
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" width="48" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/o0t/">
-   <img src="[https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg](https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png)https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" width="48" style="max-width: 100%;">
+   <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" width="48" style="max-width: 100%;">
 </a>
 
