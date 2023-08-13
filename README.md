@@ -3,6 +3,10 @@
     <h1> > Hi there, I'm Rayan 👋 </h1>
 </div> 
 
+[<img  align="left" width="400" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"/>](https://giphy.com/embed/bGgsc5mWoryfgKBx1u)
+<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+
+
 <div align="center"> 
 <img  align="left" width="400" src="https://user-images.githubusercontent.com/94997828/195132053-9f3eafcb-2b0f-4a19-9e6d-f625e20c7d50.png"/>
 </div>
