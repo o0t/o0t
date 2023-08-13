@@ -28,14 +28,13 @@ I am a software developer specialized in web development, with over two and a ha
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg">
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg">
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Bootstrap.svg">
-</p>
-
-
-# 🛠 Skills
-<p align="center">
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Bash-Dark.svg">
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Linux-Dark.svg">
 </p>
+
+
+<!-- # 🛠 Skills -->
+
 
 <br>
 
