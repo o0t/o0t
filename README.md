@@ -37,9 +37,7 @@
 </p>
 
 <br>
-
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
+[![wakatime](https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg)](https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b)
 
 <br>
 
