@@ -58,5 +58,5 @@
 
 <hr>
 
-* 🖥️  See my portfolio at [https://o0t.me/](http://sdfg)
+* 🖥️  See my portfolio at [My website](http://o0t.me/)
 
