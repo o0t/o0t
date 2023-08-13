@@ -4,7 +4,7 @@
 </div> 
 
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<img  align="left" width="400" src="https://user-images.githubusercontent.com/94997828/195132053-9f3eafcb-2b0f-4a19-9e6d-f625e20c7d50.png"/>
 </div>
 
 
