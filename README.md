@@ -39,13 +39,11 @@ I am a software developer specialized in web development, with over two and a ha
 </p>
 
 
-<!-- # 🛠 Skills -->
 
-
-<br>
 
 
 <br>
+# 🛠 Skills
 
 - Develop backend with Laravel & PHP 
 - Design frontend with HTML & Css & Js & Bootstrap
@@ -53,7 +51,6 @@ I am a software developer specialized in web development, with over two and a ha
 - Testing an API by Postman 
 - Database management MySQL / phpmyadmin
 
-<br>
 <hr>
 
 
