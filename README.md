@@ -10,6 +10,14 @@
 
 <br>
 
+<p align="center">
+    👨‍💻 About Me :
+    I am a software developer specialized in web development, with over two and a half years of experience. I have a great passion for software programming and constantly strive to improve my skills and knowledge. I am interested in incorporating new technologies into innovative and high-quality software solutions.
+    I enjoy challenges and creativity in my work, and I prioritize strong security measures in web applications. I look forward to joining your team and contributing to the success of your project.
+</p>
+
+<br>
+
 # Programming languages
 
 <p align="center">
