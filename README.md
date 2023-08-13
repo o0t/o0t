@@ -70,7 +70,7 @@
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" width="48" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/o0t/">
-   <img src="https://play-lh.googleusercontent.com/A-Rnrh0J7iKmABskTonqFAANRLGTGUg_nuE4PEMYwJavL3nPt5uWsU2WO_DSgV_mOOM" width="48" style="max-width: 100%;">
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" width="48" style="max-width: 100%;">
 </a>
 
 
