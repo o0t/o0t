@@ -37,7 +37,10 @@
 </p>
 
 <br>
-[![wakatime](https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg)](https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b)
+
+
+    [![wakatime](https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg)](https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b)
+
 
 <br>
 
