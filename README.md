@@ -1,7 +1,7 @@
 
 <div align="center">
     <h1> > Hi there, I'm Rayan 👋 </h1>
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer++php+%2F+Laravel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer++php+%2F+Laravel)](https://git.io/typing-svg)
 
 </div> 
 
