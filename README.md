@@ -62,7 +62,6 @@
 * ✉️  You can contact me at [rayan.faisal800@gmail.com](mailto:rayan.faisal800@gmail.com)
 * 🤝  I'm open to collaborating on Laravel
 
-<hr>
 
 <!--
 # 📫 How to reach me: 
