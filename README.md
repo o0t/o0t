@@ -43,6 +43,7 @@ I am a software developer specialized in web development, with over two and a ha
 
 
 <br>
+
 # 🛠 Skills
 
 - Develop backend with Laravel & PHP 
