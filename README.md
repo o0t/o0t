@@ -18,7 +18,6 @@ I am a software developer specialized in web development, with over two and a ha
 
 <a href="https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b"><img src="https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg" alt="Total time coded since Sep 27 2022" /></a>
 
-<br>
 
 # Programming languages
 
