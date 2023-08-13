@@ -4,7 +4,7 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer++php+%2F+Laravel)](https://git.io/typing-svg)
 
-
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 </div> 
 
 
