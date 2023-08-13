@@ -66,5 +66,5 @@
 
 # 📫 How to reach me: 
 
-<a herf="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" width="48" style="max-width: 100%;"></a>
+<a herf="https://o0t.me/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" width="48" style="max-width: 100%;"></a>
 
