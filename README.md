@@ -4,7 +4,7 @@
 </div> 
 
 <div align="center"> 
-<img  align="left" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0cDNzMzd2Z3Bmd3U5bDQwdWsyaWxsY3l1ZXQ1bHEzMDQ4YWtoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </div>
 
 
