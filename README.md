@@ -27,6 +27,9 @@
 
 <a href="https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b"><img src="https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg" alt="Total time coded since Sep 27 2022" /></a>
 
+* 🖥️  See my portfolio at [https://o0t.me/](http://sdfg)
+
+
 
 # Programming languages
 
