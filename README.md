@@ -64,6 +64,7 @@
 
 <hr>
 
+<!--
 # 📫 How to reach me: 
 
 <a href="https://www.linkedin.com/in/o0t/">
@@ -75,4 +76,4 @@
 <a href="https://www.linkedin.com/in/o0t/">
    <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" width="48" style="max-width: 100%;">
 </a>
-
+-->
