@@ -29,9 +29,7 @@
           
 </p>
 
-
-
-
-
 <br>
 
+- name: WakaTime Stat Update Action
+ uses: avinal/Profile-Readme-WakaTime@v4
