@@ -31,4 +31,4 @@
 
 <br>
 
-[![WakaTime](https://wakatime.com/badge/user/o0t.svg)](https://wakatime.com/@o0t)
+[![WakaTime](https://wakatime.com/badge/user/o0t.png)](https://wakatime.com/@o0t)
