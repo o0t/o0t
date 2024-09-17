@@ -40,8 +40,7 @@
  
 <br>
 <div align="center">
-  <img align="center" height="500" src="https://wakatime.com/share/@o0t/1b3eea51-77a5-47ab-b7ae-65be63c71d42.png" />
-
+<img src="https://wakatime.com/share/@o0t/e0bbe5bd-2baf-41f5-aa8c-048e85c02c8e.png" />
 </div>
  
  
