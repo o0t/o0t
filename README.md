@@ -33,5 +33,6 @@
 
 <div  align="center">
  <img src="https://wakatime.com/share/@o0t/d23f2043-9e4c-4842-ade4-089b1c11bc33.png" />
- <img src="https://wakatime.com/share/@o0t/4c9338b9-51e1-4025-a22a-c36dfd921c6c.png" />
+ <br>
 </div>
+ <img src="https://wakatime.com/share/@o0t/4c9338b9-51e1-4025-a22a-c36dfd921c6c.png" />
