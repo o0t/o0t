@@ -1,12 +1,6 @@
 ![banner-git](https://github.com/user-attachments/assets/bec1ef03-d986-4546-8c25-1da499fe536c)
  
 
-<div align="center"> 
-<img  align="left" width="400" src="https://user-images.githubusercontent.com/94997828/195132053-9f3eafcb-2b0f-4a19-9e6d-f625e20c7d50.png"/>
-</div>
-
-
-<br>
 
 # 👨‍💻 About Me :
 <p align="center">
