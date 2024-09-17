@@ -31,4 +31,4 @@
 
 <br>
 
-[![WakaTime](https://wakatime.com/badge/user/o0t.svg)](https://wakatime.com/o0t)
+<figure><embed src="https://wakatime.com/share/@o0t/6c13a5a4-2bf7-43bb-9d60-e001c9e78e8a.svg"></embed></figure>
