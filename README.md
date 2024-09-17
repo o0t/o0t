@@ -40,7 +40,7 @@
  
 <br>
 <div align="center">
-<img src="https://wakatime.com/share/@o0t/e0bbe5bd-2baf-41f5-aa8c-048e85c02c8e.png" />
+<img align="center" height="500" src="https://wakatime.com/share/@o0t/e0bbe5bd-2baf-41f5-aa8c-048e85c02c8e.png" />
 </div>
  
  
@@ -49,3 +49,10 @@
 <div align="center">
  <img src="https://wakatime.com/share/@o0t/e25931d3-1f06-4376-a78d-8ef86e9b2b2c.png" />
 </div>
+ 
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%2052%20mins-blue)
+
+
+
+
