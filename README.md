@@ -50,8 +50,7 @@
  <img src="https://wakatime.com/share/@o0t/e25931d3-1f06-4376-a78d-8ef86e9b2b2c.png" />
 </div>
  
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%2052%20mins-blue)
+ 
 
 
 
