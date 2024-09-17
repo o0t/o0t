@@ -31,4 +31,5 @@
 
 <br>
 
- <figure><embed src="https://wakatime.com/share/@o0t/6c13a5a4-2bf7-43bb-9d60-e001c9e78e8a.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@o0t/d23f2043-9e4c-4842-ade4-089b1c11bc33.png
+    :target: https://wakatime.com/
