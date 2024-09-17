@@ -31,5 +31,6 @@
 
 <br>
 
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@o0t/d23f2043-9e4c-4842-ade4-089b1c11bc33.png" /></a>
+<div  align="center">
+ <img src="https://wakatime.com/share/@o0t/d23f2043-9e4c-4842-ade4-089b1c11bc33.png" />
+</div>
