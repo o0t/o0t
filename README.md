@@ -46,4 +46,7 @@
  
  
  <br>
- <img src="https://wakatime.com/share/@o0t/4c9338b9-51e1-4025-a22a-c36dfd921c6c.png" />
+ 
+<div align="center">
+ <img src="https://wakatime.com/share/@o0t/e25931d3-1f06-4376-a78d-8ef86e9b2b2c.png" />
+</div>
