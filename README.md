@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/094d42c4-8927-41cd-b061-a3e60e670896" alt="Leah Thompson (8)" style="max-width: 100%;">
+ 
 <div align="center">
 
  <h1> 
