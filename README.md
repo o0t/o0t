@@ -33,11 +33,11 @@
 
 
 
-<div align="center"> 
- <img align="left" height="500" src="https://wakatime.com/share/@o0t/d23f2043-9e4c-4842-ade4-089b1c11bc33.png" />
-
- <img align="right" height="500" src="https://wakatime.com/share/@o0t/1b3eea51-77a5-47ab-b7ae-65be63c71d42.png" />
-</div>
+ 
+ <img align="center" height="500" src="https://wakatime.com/share/@o0t/d23f2043-9e4c-4842-ade4-089b1c11bc33.png" />
+<br>
+ <img align="center" height="500" src="https://wakatime.com/share/@o0t/1b3eea51-77a5-47ab-b7ae-65be63c71d42.png" />
+ 
  
  <br>
  <img src="https://wakatime.com/share/@o0t/4c9338b9-51e1-4025-a22a-c36dfd921c6c.png" />
