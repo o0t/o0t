@@ -31,5 +31,7 @@
 
 <br>
 
-- name: WakaTime Stat Update Action
- uses: avinal/Profile-Readme-WakaTime@v4
+<img
+  src="https://github.com/o0t/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
