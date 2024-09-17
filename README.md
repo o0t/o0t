@@ -33,10 +33,16 @@
 
 
 
- 
+<div align="center">
  <img align="center" height="500" src="https://wakatime.com/share/@o0t/d23f2043-9e4c-4842-ade4-089b1c11bc33.png" />
+ 
+</div>
+ 
 <br>
- <img align="center" height="500" src="https://wakatime.com/share/@o0t/1b3eea51-77a5-47ab-b7ae-65be63c71d42.png" />
+<div align="center">
+  <img align="center" height="500" src="https://wakatime.com/share/@o0t/1b3eea51-77a5-47ab-b7ae-65be63c71d42.png" />
+
+</div>
  
  
  <br>
