@@ -35,31 +35,3 @@
 
 <br>
 
-# 🛠 Skills
-
-- Develop backend with Laravel & PHP 
-- Design frontend with HTML & Css & Js & Bootstrap
-- Build REST API in Laravel 
-- Testing an API by Postman 
-- Database management MySQL / phpmyadmin
-
-<hr>
-
-* 🖥️  See my portfolio at -
-* ✉️  You can contact me at -
-* 🤝  I'm open to collaborating on Laravel
-
-
-<!--
-# 📫 How to reach me: 
-
-<a href="https://www.linkedin.com/in/o0t/">
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" width="48" style="max-width: 100%;">
-</a>
-<a href="https://www.linkedin.com/in/o0t/">
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" width="48" style="max-width: 100%;">
-</a>
-<a href="https://www.linkedin.com/in/o0t/">
-   <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" width="48" style="max-width: 100%;">
-</a>
--->
