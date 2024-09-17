@@ -31,7 +31,4 @@
 
 <br>
 
-<img
-  src="https://github.com/o0t/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+[WakaTime Profile](https://wakatime.com/@o0t)
