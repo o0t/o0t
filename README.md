@@ -4,7 +4,7 @@
 
 # 👨‍💻 About Me :
 <p align="center">
-       I am a software developer specialized in web development, with over two and a half years of experience. I have a great passion for software programming and constantly strive to improve my skills and knowledge. I am interested in incorporating new        technologies into innovative and high-quality software solutions. 
+         Hello! I am a Full Stack web developer specializing in back-end development with the Laravel framework. I focus on building complex systems, developing databases, and designing secure APIs. I strive            to adopt the latest technologies to enhance efficiency and believe in the importance of teamwork and communication. If you need an experienced Full Stack developer .
 </p>
 
 <a href="https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b"><img src="https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg" alt="Total time coded since Sep 27 2022" /></a>
