@@ -39,9 +39,9 @@
 </div>
  
 <br>
-<div align="center">
+<!-- <div align="center">
 <img align="center" height="500" src="https://wakatime.com/share/@o0t/e0bbe5bd-2baf-41f5-aa8c-048e85c02c8e.png" />
-</div>
+</div> -->
  
  
  <br>
