@@ -1,57 +1,78 @@
-![banner-git](https://github.com/user-attachments/assets/bec1ef03-d986-4546-8c25-1da499fe536c)
- 
-
-
-# 👨‍💻 About Me :
+<h2 align="center">Hi there 👋, I'm Rayan</h2>
 <p align="center">
-         Hello! I am a Full Stack web developer specializing in back-end development with the Laravel framework. I focus on building complex systems, developing databases, and designing secure APIs. I strive            to adopt the latest technologies to enhance efficiency and believe in the importance of teamwork and communication. If you need an experienced Full Stack developer .
+  A full-stack Laravel developer 
+
+ <a href="https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b"><img src="https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg" alt="Total time coded since Sep 27 2022" /></a>
+
 </p>
 
-<a href="https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b"><img src="https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg" alt="Total time coded since Sep 27 2022" /></a>
-
-
-# Programming languages
 
 <p align="center">
-    <img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />          
-    <img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-    <img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="40" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg">
-    <img width="40" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg">
-    <img width="40" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg">
-    <img width="40" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Bootstrap.svg">
-    <img width="40" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Bash-Dark.svg">
-    <img width="40" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Linux-Dark.svg">
-    <img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />
-    <img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
-    <img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
-          
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+</p>
+
+I'm a passionate full-stack web developer with a strong focus on backend development using **PHP** and **Laravel**.  
+I specialize in building secure and scalable applications, managing Linux-based servers, and integrating cloud solutions like **AWS S3** and **MinIO**.
+
+With a solid foundation in both frontend and backend technologies, I enjoy crafting clean code, automating deployment pipelines with **Docker** and **Nginx**, and designing RESTful APIs that power modern web applications.
+
+I'm currently focused on developing production-ready systems using **Laravel**, while maintaining full control over the infrastructure.
 
 
 
-<div align="center">
- <img align="center" height="500" src="https://wakatime.com/share/@o0t/d23f2043-9e4c-4842-ade4-089b1c11bc33.png" />
- 
-</div>
- 
-<br>
-<!-- <div align="center">
-<img align="center" height="500" src="https://wakatime.com/share/@o0t/e0bbe5bd-2baf-41f5-aa8c-048e85c02c8e.png" />
-</div> -->
- 
- 
- <br>
- 
-<div align="center">
- <img src="https://wakatime.com/share/@o0t/e25931d3-1f06-4376-a78d-8ef86e9b2b2c.png" />
-</div>
- 
- 
+## 🧾 A little more about me...
 
+```php
+<?php
 
+class Developer
+{
+    public string $name = 'Rayan';
+
+    public array $programmingLanguages = [
+        'HTML', 'CSS', 'JavaScript', 'Bootstrap',
+        'PHP', 'Laravel', 'SQL', 'Bash'
+    ];
+
+    public array $webDesign = [
+        'Front-end Development',
+        'Back-end Development',
+        'API Development',
+        'PHP Laravel'
+    ];
+
+    public array $toolsAndTechnologies = [
+        'Access Control',
+        'VPS',
+        'SSH',
+        'Domain Controller',
+        'Web Services'
+    ];
+
+    public array $operatingSystems = [
+        'Linux',
+        'CentOS',
+        'Zorin OS',
+        'Debian'
+    ];
+
+    public string $currentFocus = 'Building full-stack web applications using Laravel with secure server infrastructure';
+    public string $funFact = 'I manage Linux servers like a pro while sipping coffee ☕';
+}
 
 
