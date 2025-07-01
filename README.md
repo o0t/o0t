@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Rayan</h2>
 <p align="center">
-  A full-stack Laravel developer 
+    Full-Stack Laravel Developer 
 </p>
 
 <p align="center">
