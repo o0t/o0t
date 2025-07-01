@@ -24,19 +24,13 @@
 
 
 
-<h3 align="center">I'm a passionate full-stack web developer with a strong focus on backend development using <strong>PHP</strong> and <strong>Laravel</strong>.</h3>
+  I'm a passionate full-stack web developer with a strong focus on backend development using **PHP** and **Laravel**.  
+  I specialize in building secure and scalable applications, managing **Linux-based servers**, and integrating cloud solutions like **AWS S3** and **MinIO**.
+  
+  With a solid foundation in both frontend and backend technologies, I enjoy crafting clean code, automating deployment pipelines with **Docker** and **Nginx**, and designing **RESTful APIs** that power modern web applications.
+  
+  I'm currently focused on developing production-ready systems using **Laravel**, while maintaining full control over the infrastructure.
 
-<p align="center">
-  I specialize in building secure and scalable applications, managing <strong>Linux-based servers</strong>, and integrating cloud solutions like <strong>AWS S3</strong> and <strong>MinIO</strong>.
-</p>
-
-<p align="center">
-  With a solid foundation in both frontend and backend technologies, I enjoy crafting clean code, automating deployment pipelines with <strong>Docker</strong> and <strong>Nginx</strong>, and designing <strong>RESTful APIs</strong> that power modern web applications.
-</p>
-
-<p align="center">
-  I'm currently focused on developing production-ready systems using <strong>Laravel</strong>, while maintaining full control over the infrastructure.
-</p>
 
 
 
