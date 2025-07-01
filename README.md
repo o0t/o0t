@@ -1,14 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Rayan</h2>
 <p align="center">
   A full-stack Laravel developer 
-
- <a href="https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b"><img src="https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg" alt="Total time coded since Sep 27 2022" /></a>
-
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -26,6 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0t&theme=github_dark" />
+</p>
+
+
+
 I'm a passionate full-stack web developer with a strong focus on backend development using **PHP** and **Laravel**.  
 I specialize in building secure and scalable applications, managing Linux-based servers, and integrating cloud solutions like **AWS S3** and **MinIO**.
 
@@ -36,6 +34,7 @@ I'm currently focused on developing production-ready systems using **Laravel**, 
 
 
 ## 🧾 A little more about me...
+ <a href="https://wakatime.com/@c902adae-c9ed-4a2d-98b4-7c09142b392b"><img src="https://wakatime.com/badge/user/c902adae-c9ed-4a2d-98b4-7c09142b392b.svg" alt="Total time coded since Sep 27 2022" /></a>
 
 ```php
 <?php
