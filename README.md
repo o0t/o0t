@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/livewire.svg" width="40" alt="Livewire" />
+  <img src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" width="40" alt="Livewire" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
