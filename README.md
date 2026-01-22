@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Rayan</h2>
+<h2 align="center">Hi there 👋 </h2>
 <p align="center">
     Full-Stack Laravel Developer 
 </p>
@@ -44,7 +44,7 @@
 
 class Developer
 {
-    public string $name = 'Rayan';
+    public string $name = null;
 
     public array $programmingLanguages = [
         'HTML', 'CSS', 'JavaScript', 'Bootstrap',
