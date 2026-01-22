@@ -20,10 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
 </p>
 
-<p align="center">
-  <img src="https://wakatime.com/share/@o0t/2a354ac9-bf8a-4bc0-b27a-869ea9413f2f.svg">
-</p>
-
 
 
   I'm a passionate full-stack web developer with a strong focus on backend development using **PHP** and **Laravel**.  
@@ -76,5 +72,12 @@ class Developer
     public string $currentFocus = 'Building full-stack web applications using Laravel with secure server infrastructure';
     public string $funFact = 'I manage Linux servers like a pro while sipping coffee ☕';
 }
+
+```
+
+<p align="center">
+  <img src="https://wakatime.com/share/@o0t/2a354ac9-bf8a-4bc0-b27a-869ea9413f2f.svg">
+</p>
+
 
 
